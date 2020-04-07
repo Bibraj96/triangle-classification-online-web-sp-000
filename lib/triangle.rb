@@ -25,5 +25,6 @@ class Triangle
         return :equilateral
       end
     end
+  end
 
 end
