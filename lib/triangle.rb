@@ -23,5 +23,6 @@ class Triangle
     if valid?
       if @triangle_sides.uniq.length == 1
         return :equilateral
+      end
 
 end
